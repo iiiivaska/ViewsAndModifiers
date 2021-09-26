@@ -7,15 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A841FDB926FF769C002800E0 /* ViewsAndmodifiersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841FDB826FF769C002800E0 /* ViewsAndmodifiersApp.swift */; };
+		A841FDB926FF769C002800E0 /* ViewsAndModifiersApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841FDB826FF769C002800E0 /* ViewsAndModifiersApp.swift */; };
 		A841FDBB26FF769C002800E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A841FDBA26FF769C002800E0 /* ContentView.swift */; };
 		A841FDBD26FF76A4002800E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A841FDBC26FF76A4002800E0 /* Assets.xcassets */; };
 		A841FDC026FF76A4002800E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A841FDBF26FF76A4002800E0 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A841FDB526FF769C002800E0 /* ViewsAndmodifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndmodifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A841FDB826FF769C002800E0 /* ViewsAndmodifiersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndmodifiersApp.swift; sourceTree = "<group>"; };
+		A841FDB526FF769C002800E0 /* ViewsAndModifiers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewsAndModifiers.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A841FDB826FF769C002800E0 /* ViewsAndModifiersApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewsAndModifiersApp.swift; sourceTree = "<group>"; };
 		A841FDBA26FF769C002800E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A841FDBC26FF76A4002800E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A841FDBF26FF76A4002800E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		A841FDB626FF769C002800E0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A841FDB526FF769C002800E0 /* ViewsAndmodifiers.app */,
+				A841FDB526FF769C002800E0 /* ViewsAndModifiers.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 		A841FDB726FF769C002800E0 /* ViewsAndmodifiers */ = {
 			isa = PBXGroup;
 			children = (
-				A841FDB826FF769C002800E0 /* ViewsAndmodifiersApp.swift */,
+				A841FDB826FF769C002800E0 /* ViewsAndModifiersApp.swift */,
 				A841FDBA26FF769C002800E0 /* ContentView.swift */,
 				A841FDBC26FF76A4002800E0 /* Assets.xcassets */,
 				A841FDBE26FF76A4002800E0 /* Preview Content */,
@@ -84,7 +84,7 @@
 			);
 			name = ViewsAndmodifiers;
 			productName = ViewsAndmodifiers;
-			productReference = A841FDB526FF769C002800E0 /* ViewsAndmodifiers.app */;
+			productReference = A841FDB526FF769C002800E0 /* ViewsAndModifiers.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -138,7 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A841FDBB26FF769C002800E0 /* ContentView.swift in Sources */,
-				A841FDB926FF769C002800E0 /* ViewsAndmodifiersApp.swift in Sources */,
+				A841FDB926FF769C002800E0 /* ViewsAndModifiersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -284,7 +284,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iiiivaska.ViewsAndmodifiers;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ViewsAndModifiers;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -314,7 +314,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.iiiivaska.ViewsAndmodifiers;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = ViewsAndModifiers;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
